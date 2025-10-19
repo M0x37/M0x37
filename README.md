@@ -16,6 +16,7 @@ Softwareentwickler und Technologie-Enthusiast, immer neugierig auf neue Tools, F
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 <!-- Hier kannst du weitere Tools hinzufügen -->
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bb8b5e57-7972-4dad-9524-0aafc5a3e79d/deploy-status)](https://app.netlify.com/projects/m0x/deploys)
 
 
 > „Code ist wie Humor. Wenn man ihn erklären muss, ist er schlecht.“ – Cory House
