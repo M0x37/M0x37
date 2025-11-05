@@ -1,22 +1,27 @@
-# 👋 Hallo, ich bin Max
+# 👋 Hey, my Name is Max
+i am 13 year old Coder with not much experience 
+i just learn the basics of Coding.
 
-Softwareentwickler und Technologie-Enthusiast, immer neugierig auf neue Tools, Frameworks und spannende Projekte.  
 
-## 🚀 Über mich
 
-- 💻 Leidenschaft für Softwareentwicklung und innovative Lösungen
-- 🎯 Immer offen für neue Technologien und Methoden
-- 🌐 Meine Webseite: [Meine Webseite](https://maxifys.netlify.app/)
-- 🤝 Immer offen für Zusammenarbeit und Austausch
 
-## 🛠️ Technologien & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+
+## 🚀 About me 🚀
+ 
+- 🌐 My Website: [Meine Webseite](https://maxifys.netlify.app/)
+- 🧐 My interests: Coding, Sporthooting,
+
+ 
+## 🛠️ Technologien & Tools 🛠️
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,py,notion,discord,html,css&perline=3)](https://skillicons.dev)
+
+
+## 🎖️ My Badges 🎖️
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bb8b5e57-7972-4dad-9524-0aafc5a3e79d/deploy-status)](https://app.netlify.com/projects/m0x/deploys)
 
 
-> „Code ist wie Humor. Wenn man ihn erklären muss, ist er schlecht.“ – Cory House
 
-**Danke fürs Vorbeischauen! ⭐**
+
