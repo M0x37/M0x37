@@ -15,7 +15,7 @@ i just learn the basics of Coding.
 
  
 ## 🛠️ Technologien & Tools 🛠️
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,py,notion,discord,html,css&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,py,notion,discord,html,css,github&perline=3)](https://skillicons.dev)
 
 
 ## 🎖️ My Badges 🎖️
