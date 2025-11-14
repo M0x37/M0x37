@@ -10,7 +10,7 @@ i just learn the basics of Coding.
 
 ## 🚀 About me 🚀
  
-- 🌐 [My Website](https://maxifys.netlify.app/)
+- 🌐 [My Website](https://m0x2.de/)
 - 🧐 My interests: Coding, Sportshooting,
 
  
