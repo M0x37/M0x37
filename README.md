@@ -1,6 +1,6 @@
 # 👋 Hey, my Name is Max
-i am 13 year old Coder with a okay  amount of knowledge
-i just learning
+i am 13 year old Coder with a okay  amount of knowledge.
+Im just learning
 
 
 
