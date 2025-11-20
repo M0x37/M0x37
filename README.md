@@ -16,6 +16,7 @@ Im just learning
  
 ## 🛠️ Technologien & Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,py,notion,discord,html,css,github&perline=3)](https://skillicons.dev)
+
 ![WPM](https://img.shields.io/badge/Best%20WPM-120-blue)
 
 
