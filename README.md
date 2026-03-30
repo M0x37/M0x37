@@ -1,6 +1,5 @@
-# 👋 Hey, my Name is Max
-i am 14 year old Coder with a okay  amount of knowledge.
-Im just learning
+#  Hey, my Name is Max
+I am a 14 Web Developer and Hobby Engineer from Germany and a big One Piece Fan
 
 
 
