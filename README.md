@@ -15,7 +15,7 @@ Im just learning
 
  
 ## 🛠️ Technologien & Tools 🛠️
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,py,notion,discord,html,css,github&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,py,notion,discord,html,css,github,react&perline=3)](https://skillicons.dev)
 
 
 
