@@ -1,6 +1,5 @@
 #  Hey, my Name is Max
-I am a 14 Web Developer and Hobby Engineer from Germany and a big One Piece Fan
-
+I am a 14 year old Web Developer and Hobby Engineer from Germany. I love to make physically Projects.
 
 
 
