@@ -16,7 +16,7 @@ I am a 14 year old Web Developer and Hobby Engineer from Germany. I love to make
 
 
 
-
+{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
 
 
 
