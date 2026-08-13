@@ -16,7 +16,6 @@ I am a 14 year old Web Developer and Hobby Engineer from Germany. I love to make
 
 
 
-[{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}](https://github-readme-stats.hackclub.dev/api/wakatime?username=61591&api_domain=hackatime.hackclub.com&theme=algolia&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 
 
