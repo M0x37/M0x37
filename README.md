@@ -4,7 +4,10 @@
 
 
 ```javascript
-const About me = {
+const aboutMe = {
+  age: ["14"],
+  country: ["Germany"],
+  interest: ["Coding", "Running"],
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "React", "Electron", "Git"],
   tools: ["React", "Node.js", "GitHub", "AI", "VS Code", "Docker"],
   websites: [
