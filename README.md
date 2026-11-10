@@ -1,1 +1,1 @@
-<h2>Hi, I'm Max! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Max! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt6ZGJta3YzbnZ6YWxxbTEzb3I3d20zNmNpeGExeWQ1eXo2YWN6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)" width="50"></h2>
